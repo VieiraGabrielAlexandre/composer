@@ -1,0 +1,16 @@
+{
+    "name": "gabrielvieira/buscardor-cursos",
+    "description": "Biblioteca",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gabriel Vieira",
+            "email": "gabrielvieira840@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^5.0"
+    }
+}
